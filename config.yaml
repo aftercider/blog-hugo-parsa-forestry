@@ -51,8 +51,8 @@ params:
     and identity, digital and print.
   mobile: ''
   email: exmaple@ymail.com
-  address: 6 rip carl Avenue CA 90733
-  contact_form_action: "#"
+  address: ''
+  contact_form_action: ''
   google_analitycs_id: Your ID
   copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
   instafeed:
