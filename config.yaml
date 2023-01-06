@@ -45,15 +45,15 @@ params:
   description: This is meta description
   preloader: false
   search: true
-  author: はっけんたい
+  author: みっけ
   author_image: images/banner-img.png
   bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
     and identity, digital and print.
   mobile: ''
-  email: exmaple@ymail.com
+  email: ''
   address: ''
   contact_form_action: ''
-  google_analitycs_id: Your ID
+  google_analitycs_id: G-55EYCBN8F6
   copyright: Copyright &copy; 2023 a theme by [themefisher.com](themefisher.com)
   instafeed:
     enable: false
